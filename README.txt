@@ -4,4 +4,4 @@
 1. 그누보드가 설치된 디렉터리에 업로드 하세요
 2. 필요한곳에 rollbnr.php 를 include 하세요
 
-샘플보기: <a href="http://gmassage.co.kr" title="Gmassage">Gmassage.co.kr</a>
+샘플보기: http://gmassage.co.kr
